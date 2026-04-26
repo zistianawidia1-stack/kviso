@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<buttons version="4.3.4" page="0" pagewidth="0" pageheight="0" x="0" y="0" width="0" height="0" rollover="none" popupHeight="0" image="" rolloverText="" destination="">
+  <button page="4" pagewidth="580" pageheight="800" x="55" y="187" width="400" height="35" rollover="none" popupHeight="0" image="content/images/None.jpg" rolloverText="" destination=""/>
+  <button page="4" pagewidth="580" pageheight="800" x="62" y="231" width="397" height="28" rollover="none" popupHeight="0" image="content/images/None.jpg" rolloverText="" destination=""/>
+  <button page="4" pagewidth="580" pageheight="800" x="501" y="519" width="10" height="10" rollover="none" popupHeight="0" image="content/images/None.jpg" rolloverText="" destination=""/>
+  <button page="4" pagewidth="580" pageheight="800" x="57" y="270" width="402" height="31" rollover="none" popupHeight="0" image="content/images/None.jpg" rolloverText="" destination=""/>
+</buttons>
